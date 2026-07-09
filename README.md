@@ -17,5 +17,5 @@ I'm a passionate **Software Engineer** specializing in Full-Stack and Mobile dev
 - **DevOps & Tools:** Git, Docker, Agile (Scrum/Kanban)
 
 ## 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/abd-alghafoor-haj-aref)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abd-alghafoor-haj-aref-a96a03183/)
 - 📧 E-Mail: abdalghafoor.hajaref@gmail.com
