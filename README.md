@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Abd Alghafoor Haj Aref! 👋
 
-<!--
-**abdalghafoorhajaref/abdalghafoorhajaref** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Software Engineer** specializing in Full-Stack and Mobile development. I love building scalable architectures, integrating AI solutions, and solving complex problems.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 📍 Based in **Ludwigshafen, Germany**
+- 🎓 Bachelor in **Computer Systems Engineering**
+- 💼 Software Engineer & Former Team Lead
+- 🧠 Passionate about **AI, Deep Learning & Mobile App Development**
+- 🗣️ Languages: Arabic (Native), English (B2), German (A2 - in progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Skills
+- **Mobile:** Flutter, Dart, Kotlin
+- **Backend & Full-Stack:** PHP, Laravel, Java Spring Boot, Node.js, REST APIs
+- **AI & Data Science:** Python, TensorFlow, Jupyter, Google Gemma (On-Device AI)
+- **Databases:** MySQL, MS-SQL Server
+- **DevOps & Tools:** Git, Docker, Agile (Scrum/Kanban)
+
+## 📫 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/abd-alghafoor-haj-aref)
+- 📧 E-Mail: abdalghafoor.hajaref@gmail.com
