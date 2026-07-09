@@ -1,7 +1,7 @@
 # Hi there, I'm Abd Alghafoor Haj Aref! 🚀
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/abd-alghafoor-haj-aref"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abd-alghafoor-haj-aref-a96a03183/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:abdalghafoor.hajaref@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -63,5 +63,5 @@ I'm a passionate **Software Engineer** specializing in Full-Stack Web and Mobile
 - 🗣️ Languages: Arabic (Native), English (B2), German (A2 - in progress)
 
 ### 📧 Get in Touch!
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/abd-alghafoor-haj-aref)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/abd-alghafoor-haj-aref-a96a03183/)
 - 📬 Email me at [abdalghafoor.hajaref@gmail.com](mailto:abdalghafoor.hajaref@gmail.com)
